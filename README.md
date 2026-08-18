@@ -15,6 +15,8 @@ Interestingly, bits are the basic units of information through which we can comm
 Ok, so bytes are 8-bits. So a byte can represent 256 combinations/information. We use them as a basic unit, and it's representation can change with the context.
 
 - CPU
+It means Central Processing Unit and its labor is to execute instructions, it is known as the brain of the computer
+
 - RAM
 - Cache
 - SSD
