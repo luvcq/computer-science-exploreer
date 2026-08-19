@@ -18,6 +18,8 @@ Ok, so bytes are 8-bits. So a byte can represent 256 combinations/information. W
 It means Central Processing Unit and its labor is to execute instructions, it is known as the brain of the computer
 
 - RAM
+It stands for Random Access Memory is the computer's short-term memory. It temporarily stores the data and instructions that the CPU is currently using, allowing them to be accessed quickly.
+
 - Cache
 - SSD
 - Sistema operativo
